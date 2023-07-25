@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nik02parihar" alt="nik02parihar" /></a> </p>
 
-<img align="right" width = "400" alt = "Coding image" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw3nzuJPH6aAveq35ydGJ0ic&ust=1690346685026000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJifgaCGqYADFQAAAAAdAAAAABAE">
+<img align="right" width = "200" alt = "Coding image" src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flotties%2Fprogrammer&psig=AOvVaw3nzuJPH6aAveq35ydGJ0ic&ust=1690346685026000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJifgaCGqYADFQAAAAAdAAAAABAE">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
