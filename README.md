@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nikhil Parihar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<img align="right" width = "200" alt = "Coding image" src= "https://github.com/Nik02parihar/Nik02parihar/assets/90378568/4811966a-b0bc-43ef-95df-944eb52d77d8)
-">
+<img align="right" width = "400" alt = "Coding image" src= "https://github.com/Nik02parihar/Nik02parihar/assets/90378568/4811966a-b0bc-43ef-95df-944eb52d77d8)
+" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nik02parihar&label=Profile%20views&color=0e75b6&style=flat" alt="nik02parihar" /> </p>
